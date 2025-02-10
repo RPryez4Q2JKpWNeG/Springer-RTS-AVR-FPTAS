@@ -1,0 +1,295 @@
+/var/spool/slurm/d/job28408254/slurm_script: line 25: 26916 Killed                  python3 v_pre-flex-parser.py kavr24 0 10 1 0 0 1 0
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408254.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408256 ON mdt52 CANCELLED AT 2024-11-28T23:39:18 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408256.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408265 ON mdt17 CANCELLED AT 2024-11-28T23:42:23 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408265.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/d/job28408272/slurm_script: line 25:  6759 Killed                  python3 v_pre-flex-parser.py kavr24 0 12 1 0 0 1 0
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408272.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408273 ON mdt32 CANCELLED AT 2024-11-28T23:51:05 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408273.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408324 ON mdt24 CANCELLED AT 2024-11-29T04:40:36 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 5 oom_kill events in StepId=28408324.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408325 ON mdt6 CANCELLED AT 2024-11-29T04:42:09 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 3 oom_kill events in StepId=28408325.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/d/job28408326/slurm_script: line 25: 48806 Killed                  python3 v_pre-flex-parser.py kavr24 1 10 1 0 0 1 0
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408326.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408327 ON mdt36 CANCELLED AT 2024-11-29T00:11:55 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408327.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408328 ON mdt8 CANCELLED AT 2024-11-29T00:14:57 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408328.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408329 ON mdt63 CANCELLED AT 2024-11-29T00:18:02 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 3 oom_kill events in StepId=28408329.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408330 ON mdt27 CANCELLED AT 2024-11-29T00:21:05 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 3 oom_kill events in StepId=28408330.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408331 ON mdt73 CANCELLED AT 2024-11-29T00:35:52 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 6 oom_kill events in StepId=28408331.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408332 ON mdt24 CANCELLED AT 2024-11-29T00:37:55 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 3 oom_kill events in StepId=28408332.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408333 ON mdt26 CANCELLED AT 2024-11-29T04:42:09 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 5 oom_kill events in StepId=28408333.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408334 ON mdt63 CANCELLED AT 2024-11-29T04:44:09 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408334.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/d/job28408335/slurm_script: line 25: 43652 Killed                  python3 v_pre-flex-parser.py kavr24 1 11 1 0 0 1 0
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408335.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408336 ON mdt31 CANCELLED AT 2024-11-29T00:14:57 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408336.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408337 ON mdt26 CANCELLED AT 2024-11-29T00:18:02 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408337.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408338 ON mdt35 CANCELLED AT 2024-11-29T00:24:10 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 3 oom_kill events in StepId=28408338.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408339 ON mdt26 CANCELLED AT 2024-11-29T00:27:12 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 3 oom_kill events in StepId=28408339.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408340 ON mdt6 CANCELLED AT 2024-11-29T00:41:31 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 5 oom_kill events in StepId=28408340.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408341 ON mdt48 CANCELLED AT 2024-11-29T00:54:19 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 3 oom_kill events in StepId=28408341.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408342 ON mdt20 CANCELLED AT 2024-11-29T04:46:10 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408342.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408343 ON mdt27 CANCELLED AT 2024-11-29T04:46:10 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 3 oom_kill events in StepId=28408343.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/d/job28408344/slurm_script: line 25: 15099 Killed                  python3 v_pre-flex-parser.py kavr24 1 12 1 0 0 1 0
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408344.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408345 ON mdt37 CANCELLED AT 2024-11-29T00:18:02 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408345.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408346 ON mdt60 CANCELLED AT 2024-11-29T00:18:02 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408346.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408347 ON mdt62 CANCELLED AT 2024-11-29T00:27:12 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 3 oom_kill events in StepId=28408347.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408348 ON mdt31 CANCELLED AT 2024-11-29T00:30:14 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408348.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408349 ON mdt48 CANCELLED AT 2024-11-29T00:54:19 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 5 oom_kill events in StepId=28408349.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408350 ON mdt48 CANCELLED AT 2024-11-29T00:54:19 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 3 oom_kill events in StepId=28408350.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408369 ON mdt77 CANCELLED AT 2024-11-29T04:49:14 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408369.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408374 ON mdt63 CANCELLED AT 2024-11-29T00:48:09 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408374.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408376 ON mdt48 CANCELLED AT 2024-11-29T00:55:51 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408376.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408378 ON mdt48 CANCELLED AT 2024-11-29T04:55:20 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408378.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408379 ON mdt6 CANCELLED AT 2024-11-29T04:55:50 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408379.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/d/job28408380/slurm_script: line 25: 19377 Killed                  python3 v_pre-flex-parser.py kavr24 1 8 1 0 0 1 0
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408380.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408381 ON mdt30 CANCELLED AT 2024-11-29T00:33:15 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408381.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408382 ON mdt35 CANCELLED AT 2024-11-29T00:33:15 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408382.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408383 ON mdt26 CANCELLED AT 2024-11-29T00:56:21 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 3 oom_kill events in StepId=28408383.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408384 ON mdt48 CANCELLED AT 2024-11-29T00:56:21 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408384.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408385 ON mdt77 CANCELLED AT 2024-11-29T01:01:57 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408385.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408386 ON mdt48 CANCELLED AT 2024-11-29T01:03:27 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408386.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408387 ON mdt48 CANCELLED AT 2024-11-29T04:56:50 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 5 oom_kill events in StepId=28408387.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408388 ON mdt35 CANCELLED AT 2024-11-29T04:58:21 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 3 oom_kill events in StepId=28408388.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/d/job28408389/slurm_script: line 25:  3284 Killed                  python3 v_pre-flex-parser.py kavr24 1 9 1 0 0 1 0
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408389.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408390 ON mdt27 CANCELLED AT 2024-11-29T00:35:52 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408390.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408391 ON mdt60 CANCELLED AT 2024-11-29T00:35:52 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408391.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408392 ON mdt37 CANCELLED AT 2024-11-29T00:56:52 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 3 oom_kill events in StepId=28408392.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408393 ON mdt67 CANCELLED AT 2024-11-29T00:56:52 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408393.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408394 ON mdt6 CANCELLED AT 2024-11-29T01:16:16 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 5 oom_kill events in StepId=28408394.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408395 ON mdt31 CANCELLED AT 2024-11-29T01:34:31 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 3 oom_kill events in StepId=28408395.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/d/job28408398/slurm_script: line 25:  7352 Killed                  python3 v_pre-flex-parser.py row17 0 10 1 0 0 1 0
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408398.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408399 ON mdt61 CANCELLED AT 2024-11-29T00:38:57 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408399.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408400 ON mdt36 CANCELLED AT 2024-11-29T00:42:02 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408400.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408401 ON mdt7 CANCELLED AT 2024-11-29T00:59:54 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408401.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408402 ON mdt70 CANCELLED AT 2024-11-29T01:05:59 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408402.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408403 ON mdt11 CANCELLED AT 2024-11-29T01:40:36 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408403.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408404 ON mdt60 CANCELLED AT 2024-11-29T02:05:28 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408404.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/d/job28408407/slurm_script: line 25: 47463 Killed                  python3 v_pre-flex-parser.py row17 0 11 1 0 0 1 0
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408407.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408408 ON mdt5 CANCELLED AT 2024-11-29T00:48:09 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408408.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408409 ON mdt36 CANCELLED AT 2024-11-29T00:56:52 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408409.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408410 ON mdt77 CANCELLED AT 2024-11-29T01:09:02 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408410.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408411 ON mdt24 CANCELLED AT 2024-11-29T01:12:09 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408411.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408412 ON mdt62 CANCELLED AT 2024-11-29T02:30:23 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408412.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408413 ON mdt26 CANCELLED AT 2024-11-29T02:30:23 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408413.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408416 ON mdt33 CANCELLED AT 2024-11-28T23:58:10 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 28408417 ON mdt2 CANCELLED AT 2024-11-29T00:56:52 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408417.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408418 ON mdt25 CANCELLED AT 2024-11-29T00:56:52 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408418.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408419 ON mdt63 CANCELLED AT 2024-11-29T01:12:09 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408419.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408420 ON mdt1 CANCELLED AT 2024-11-29T01:15:14 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408420.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408421 ON mdt31 CANCELLED AT 2024-11-29T02:37:05 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408421.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408422 ON mdt63 CANCELLED AT 2024-11-29T02:37:05 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408422.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408437 ON mdt37 CANCELLED AT 2024-11-29T01:21:19 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408437.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408438 ON mdt27 CANCELLED AT 2024-11-29T01:26:54 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408438.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408439 ON mdt73 CANCELLED AT 2024-11-29T02:39:06 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 5 oom_kill events in StepId=28408439.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408440 ON mdt24 CANCELLED AT 2024-11-29T02:40:38 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408440.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/d/job28408443/slurm_script: line 25: 17704 Killed                  python3 v_pre-flex-parser.py row17 0 7 1 0 0 1 0
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408443.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408444 ON mdt72 CANCELLED AT 2024-11-29T01:15:14 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408444.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408445 ON mdt1 CANCELLED AT 2024-11-29T01:18:17 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408445.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408446 ON mdt32 CANCELLED AT 2024-11-29T01:29:57 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408446.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408447 ON mdt70 CANCELLED AT 2024-11-29T01:32:59 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408447.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408448 ON mdt6 CANCELLED AT 2024-11-29T02:41:39 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408448.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408449 ON mdt6 CANCELLED AT 2024-11-29T02:41:39 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408449.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/d/job28408452/slurm_script: line 25: 29820 Killed                  python3 v_pre-flex-parser.py row17 0 8 1 0 0 1 0
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408452.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408453 ON mdt2 CANCELLED AT 2024-11-29T01:21:19 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408453.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408454 ON mdt58 CANCELLED AT 2024-11-29T01:26:54 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408454.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408455 ON mdt72 CANCELLED AT 2024-11-29T01:36:04 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408455.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408456 ON mdt17 CANCELLED AT 2024-11-29T01:45:10 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408456.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408457 ON mdt27 CANCELLED AT 2024-11-29T02:45:45 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408457.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408458 ON mdt63 CANCELLED AT 2024-11-29T02:48:18 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408458.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/d/job28408461/slurm_script: line 25:  8429 Killed                  python3 v_pre-flex-parser.py row17 0 9 1 0 0 1 0
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408461.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408462 ON mdt8 CANCELLED AT 2024-11-29T01:36:04 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408462.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408463 ON mdt25 CANCELLED AT 2024-11-29T01:36:04 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408463.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408464 ON mdt77 CANCELLED AT 2024-11-29T01:45:10 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408464.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408465 ON mdt65 CANCELLED AT 2024-11-29T01:51:16 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408465.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408466 ON mdt48 CANCELLED AT 2024-11-29T02:54:50 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408466.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408467 ON mdt48 CANCELLED AT 2024-11-29T02:54:50 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408467.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/d/job28408470/slurm_script: line 25: 38459 Killed                  python3 v_pre-flex-parser.py row17 1 10 1 0 0 1 0
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408470.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408471 ON mdt52 CANCELLED AT 2024-11-29T01:42:07 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408471.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408472 ON mdt82 CANCELLED AT 2024-11-29T01:42:07 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408472.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408473 ON mdt32 CANCELLED AT 2024-11-29T01:59:56 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408473.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408474 ON mdt8 CANCELLED AT 2024-11-29T02:06:00 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408474.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408475 ON mdt48 CANCELLED AT 2024-11-29T02:54:50 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408475.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408476 ON mdt48 CANCELLED AT 2024-11-29T02:56:22 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408476.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/d/job28408479/slurm_script: line 25:  3258 Killed                  python3 v_pre-flex-parser.py row17 1 11 1 0 0 1 0
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408479.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408480 ON mdt11 CANCELLED AT 2024-11-29T01:48:14 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408480.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408481 ON mdt58 CANCELLED AT 2024-11-29T01:51:16 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408481.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408482 ON mdt61 CANCELLED AT 2024-11-29T02:12:07 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408482.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408483 ON mdt77 CANCELLED AT 2024-11-29T02:12:07 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408483.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408484 ON mdt35 CANCELLED AT 2024-11-29T02:57:53 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408484.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408485 ON mdt77 CANCELLED AT 2024-11-29T03:02:25 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408485.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/d/job28408488/slurm_script: line 25: 48847 Killed                  python3 v_pre-flex-parser.py row17 1 12 1 0 0 1 0
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408488.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408489 ON mdt65 CANCELLED AT 2024-11-29T01:51:16 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408489.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408490 ON mdt2 CANCELLED AT 2024-11-29T01:54:18 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408490.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408491 ON mdt6 CANCELLED AT 2024-11-29T02:12:07 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408491.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408492 ON mdt24 CANCELLED AT 2024-11-29T02:12:07 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408492.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408493 ON mdt48 CANCELLED AT 2024-11-29T03:03:55 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408493.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408494 ON mdt37 CANCELLED AT 2024-11-29T03:09:57 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408494.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/d/job28408506/slurm_script: line 25: 29271 Killed                  python3 v_pre-flex-parser.py row17 1 6 1 0 0 1 0
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408506.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408507 ON mdt9 CANCELLED AT 2024-11-29T02:06:00 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408507.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408508 ON mdt17 CANCELLED AT 2024-11-29T02:12:07 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408508.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408509 ON mdt30 CANCELLED AT 2024-11-29T02:12:07 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408509.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408510 ON mdt35 CANCELLED AT 2024-11-29T02:12:07 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408510.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408511 ON mdt20 CANCELLED AT 2024-11-29T03:27:05 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408511.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408512 ON mdt20 CANCELLED AT 2024-11-29T03:32:37 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408512.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/d/job28408515/slurm_script: line 25: 13002 Killed                  python3 v_pre-flex-parser.py row17 1 7 1 0 0 1 0
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408515.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408516 ON mdt24 CANCELLED AT 2024-11-29T02:12:07 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408516.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408517 ON mdt72 CANCELLED AT 2024-11-29T02:12:07 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408517.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408518 ON mdt36 CANCELLED AT 2024-11-29T02:12:07 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408518.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408519 ON mdt36 CANCELLED AT 2024-11-29T02:12:07 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 3 oom_kill events in StepId=28408519.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408520 ON mdt6 CANCELLED AT 2024-11-29T03:33:09 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408520.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408521 ON mdt70 CANCELLED AT 2024-11-29T03:33:09 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408521.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/d/job28408524/slurm_script: line 25:  4578 Killed                  python3 v_pre-flex-parser.py row17 1 8 1 0 0 1 0
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408524.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408525 ON mdt9 CANCELLED AT 2024-11-29T02:12:07 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408525.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408526 ON mdt30 CANCELLED AT 2024-11-29T02:12:07 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408526.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408527 ON mdt27 CANCELLED AT 2024-11-29T02:13:07 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408527.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408528 ON mdt8 CANCELLED AT 2024-11-29T02:15:12 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408528.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408529 ON mdt31 CANCELLED AT 2024-11-29T03:34:41 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408529.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408530 ON mdt25 CANCELLED AT 2024-11-29T03:36:15 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408530.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/d/job28408533/slurm_script: line 25: 31486 Killed                  python3 v_pre-flex-parser.py row17 1 9 1 0 0 1 0
+slurmstepd: error: Detected 1 oom_kill event in StepId=28408533.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408534 ON mdt58 CANCELLED AT 2024-11-29T02:15:12 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408534.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408535 ON mdt31 CANCELLED AT 2024-11-29T02:15:12 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 2 oom_kill events in StepId=28408535.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408536 ON mdt26 CANCELLED AT 2024-11-29T02:18:13 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408536.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408537 ON mdt37 CANCELLED AT 2024-11-29T02:18:13 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 4 oom_kill events in StepId=28408537.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408538 ON mdt11 CANCELLED AT 2024-11-29T03:40:49 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408538.batch. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** JOB 28408539 ON mdt37 CANCELLED AT 2024-11-29T03:41:52 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=28408539.batch. Some of the step tasks have been OOM Killed.
